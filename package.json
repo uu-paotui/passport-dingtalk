@@ -1,6 +1,6 @@
 {
-  "name": "passport-dingding",
-  "version": "1.0.7",
+  "name": "passport-dingtalk",
+  "version": "2.0.0",
   "description": "dingding authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -9,15 +9,15 @@
     "authentication"
   ],
   "author": {
-    "name": "leegarrett",
-    "email": "leegarrett0306@gmail.com"
+    "name": "uupaotui",
+    "email": "male@uupaotui.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lee715/passport-dingding.git"
+    "url": "git+ssh://git@github.com/uu-paotui/passport-dingtalk.git"
   },
   "bugs": {
-    "url": "http://github.com/lee715/passport-dingding/issues"
+    "url": "http://github.com/uu-paotui/passport-dingtalk/issues"
   },
   "license": "MIT",
   "licenses": [
@@ -28,12 +28,12 @@
   ],
   "main": "./lib/index.js",
   "dependencies": {
-    "passport-oauth2": "https://hub.fastgit.org/lee715/passport-oauth2/archive/v1.3.0-fork.tar.gz",
+    "passport-oauth2": "https://hub.fastgit.org/uu-paotui/passport-oauth2/archive/v1.3.0-fork.tar.gz",
     "querystring": "^0.2.0",
     "urllib": "^2.9.1"
   },
   "engines": {
     "node": ">= 0.4.0"
   },
-  "homepage": "https://github.com/lee715/passport-dingding#readme"
+  "homepage": "https://github.com/uu-paotui/passport-dingtalk#readme"
 }
