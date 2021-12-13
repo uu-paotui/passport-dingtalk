@@ -1,5 +1,5 @@
 {
-  "name": "passport-dingtalk",
+  "name": "node-passport-dingtalk",
   "version": "2.0.0",
   "description": "dingding authentication strategy for Passport.",
   "keywords": [
@@ -8,14 +8,8 @@
     "auth",
     "authentication"
   ],
-  "author": {
-    "name": "uupaotui",
-    "email": "male@uupaotui.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/uu-paotui/passport-dingtalk.git"
-  },
+  "author": "male <male@uupaotui.com>",
+  "repository": "git+ssh://git@github.com/uu-paotui/passport-dingtalk.git",
   "bugs": {
     "url": "http://github.com/uu-paotui/passport-dingtalk/issues"
   },
