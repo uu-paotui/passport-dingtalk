@@ -1,6 +1,6 @@
 {
   "name": "node-passport-dingtalk",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "dingding authentication strategy for Passport.",
   "keywords": [
     "passport",
