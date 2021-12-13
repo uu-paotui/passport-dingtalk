@@ -12,7 +12,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Installation
 
-    $ npm install passport-dingtalk
+    $ npm install node-passport-dingtalk
 
 ## Usage
 
