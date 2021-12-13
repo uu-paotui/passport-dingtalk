@@ -1,6 +1,6 @@
 {
   "name": "node-passport-dingtalk",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "dingding authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -8,7 +8,11 @@
     "auth",
     "authentication"
   ],
-  "author": "male <male@uupaotui.com>",
+  "author": {
+    "name": "male",
+    "email": "896226896@qq.com",
+    "url": "http://github.com/MaleWeb"
+  },
   "repository": "git+ssh://git@github.com/uu-paotui/passport-dingtalk.git",
   "bugs": {
     "url": "http://github.com/uu-paotui/passport-dingtalk/issues"
@@ -22,7 +26,7 @@
   ],
   "main": "./lib/index.js",
   "dependencies": {
-    "passport-oauth2": "https://hub.fastgit.org/uu-paotui/passport-oauth2/archive/v1.3.0-fork.tar.gz",
+    "passport-oauth2": "https://hub.fastgit.org/lee715/passport-oauth2/archive/v1.3.0-fork.tar.gz",
     "querystring": "^0.2.0",
     "urllib": "^2.9.1"
   },
